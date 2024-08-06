@@ -81,8 +81,9 @@ export function Wifiqr() {
           />
         </Form.Group>
       </div>
-      <Button color="violet" type="submit">
-      <Icon name='qrcode' />Generar QR
+      <Button color="blue" type="submit">
+        <Icon name="qrcode" />
+        Generar QR
       </Button>
     </Form>
   );
